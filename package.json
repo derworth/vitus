@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "lint": "prettier --check .",
+        "lint:fix": "prettier --write ."
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.9",
+        "@tailwindcss/typography": "^0.5.15",
+        "alpinejs": "^3.4.2",
+        "apexcharts": "^3.44.2",
+        "autoprefixer": "^10.4.20",
+        "brace": "^0.11.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "postcss": "^8.4.45",
+        "postcss-nesting": "^13.0.0",
+        "prettier": "^3.2.5",
+        "prettier-plugin-blade": "^2.1.6",
+        "prettier-plugin-sh": "^0.14.0",
+        "prettier-plugin-tailwindcss": "^0.5.11",
+        "tailwindcss": "^3.4.10",
+        "vite": "^6.2.5"
+    }
+}
